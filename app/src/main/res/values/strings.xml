@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Número de la Suerte</string>
+    <string name="Obtain_button">Obtener tu Numero!!!</string>
+    <string name="age">Age</string>
+    <string name="Name">Name</string>
+    <string name="Name_Example">Joshua Craig</string>
+    <string name="Age_Example">21</string>
+</resources>
